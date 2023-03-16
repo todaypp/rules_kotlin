@@ -31,7 +31,7 @@ def kt_configure():
             "com.google.protobuf:protobuf-java-util:3.6.0",
             "com.google.guava:guava:27.1-jre",
             "com.google.truth:truth:0.45",
-            "com.google.auto.service:auto-service:1.0-rc5",
+            "com.google.auto.service:auto-service:1.0.1",
             "com.google.auto.service:auto-service-annotations:1.0-rc5",
             "com.google.auto.value:auto-value:1.6.5",
             "com.google.auto.value:auto-value-annotations:1.6.5",
