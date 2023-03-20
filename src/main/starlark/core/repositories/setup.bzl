@@ -33,7 +33,7 @@ def kt_configure():
             "com.google.truth:truth:0.45",
             "com.google.auto.service:auto-service:1.0-rc5",
             "com.google.auto.service:auto-service-annotations:1.0-rc5",
-            "com.google.auto.value:auto-value:1.6.5",
+            "com.google.auto.value:auto-value:1.10.1",
             "com.google.auto.value:auto-value-annotations:1.6.5",
             "com.google.dagger:dagger:2.35.1",
             "com.google.dagger:dagger-compiler:2.35.1",
