@@ -36,7 +36,7 @@ def kt_configure():
             "com.google.auto.value:auto-value:1.6.5",
             "com.google.auto.value:auto-value-annotations:1.6.5",
             "com.google.dagger:dagger:2.35.1",
-            "com.google.dagger:dagger-compiler:2.35.1",
+            "com.google.dagger:dagger-compiler:2.45",
             "com.google.dagger:dagger-producers:2.35.1",
             "javax.annotation:javax.annotation-api:1.3.2",
             "javax.inject:javax.inject:1",
